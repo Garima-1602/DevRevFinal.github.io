@@ -1,0 +1,16 @@
+
+# All node dependencies
+node_modules
+
+
+# npm dependencies
+package-lock.json
+
+# Code coverage outputs
+.nyc_output
+coverage
+
+# Environment Variables
+.env
+nodemon.json
+.vscode

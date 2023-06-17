@@ -1,0 +1,29 @@
+{
+  "name": "devrev-project",
+  "version": "1.0.0",
+  "description": "Covid Helper",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "pdfkit": "^0.11.0",
+    "sequelize": "^6.32.0",
+    "sqlite3": "^5.1.6"
+  },
+  "scripts": {
+    "start": "nodemon run"
+  },
+  "keywords": [
+    "Covid19"
+  ],
+  "author": "Harshida Garima",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Garima-1602"
+  }
+}
